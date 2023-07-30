@@ -1,5 +1,5 @@
 # Redesign-of-three-sites
-По шаблону одного сайта сделать редизайн в трех разных вариациях с использованием кастомной CMS и PHP
+To redesign a template of one website in three different variations using a custom CMS and PHP.
 ![image](https://user-images.githubusercontent.com/87609018/189977504-8a65ae43-8285-425a-a098-c2d170fd617f.png)
 ![image](https://user-images.githubusercontent.com/87609018/189977747-719f89a5-552c-46be-b37c-523e14c2ebc9.png)
 ![image](https://user-images.githubusercontent.com/87609018/189978025-a3315c70-1ffe-41c4-9968-3d0e11fd2f45.png)
